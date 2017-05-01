@@ -3,6 +3,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		
+		//Hier eine Aenderung
+		//um Git zu testen
 		// öffnet ein AWT-Fenster
 		MaxCorrelationsKlassifikator max = new MaxCorrelationsKlassifikator();
 		

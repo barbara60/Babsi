@@ -6,6 +6,7 @@ public class Main {
 		//Hier eine Aenderung
 		//um Git zu testen
 		// öffnet ein AWT-Fenster
+		//Blubbbbb
 		MaxCorrelationsKlassifikator max = new MaxCorrelationsKlassifikator();
 		
 		max.classify(true);
